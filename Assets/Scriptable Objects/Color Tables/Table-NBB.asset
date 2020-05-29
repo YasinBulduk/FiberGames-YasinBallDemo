@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 576f25afef6b8944d8e669185b2df2da, type: 3}
+  m_Name: Table-NBB
+  m_EditorClassIdentifier: 
+  inMaterial: {fileID: 0}
+  selfMaterial: {fileID: 2100000, guid: 5058d382757e6cd45b544bbd17fadff2, type: 2}
+  outMaterial: {fileID: 2100000, guid: 5058d382757e6cd45b544bbd17fadff2, type: 2}
